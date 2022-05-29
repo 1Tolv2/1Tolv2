@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Welcome to Sofias code zone 😎💥
+[<img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=LinkedIn&color=blue"/>](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
+[<img src="https://img.shields.io/static/v1?style=flat&logo=instagram&label=&message=Instagram&color=pink"/>](https://www.instagram.com/sofiajohnsson_illustrations/)<br/>
+This is where everything I'm temporarily proud of goes....
 
-<!--
-**1Tolv2/1Tolv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚧 I’m currently working on a vehicle application, [here's the API i've created so far](https://github.com/1Tolv2/vehicle-api)
+- 📚 I’m currently learning **React Native** and working on discovering all the **UI/UX secrets**
+- 📫 How to reach me: <a href='mailto:sofiaq1+github@gmail.com'>sofiaq1@gmail.com</a>
+- ⚡ Fun fact: Back to the future is the best movie of all time. <img width="50px" src="https://www.clipartmax.com/png/full/178-1788604_back-to-the-future-delorean-clipart-delorean-dmc-12.png"/>
 
-Here are some ideas to get you started:
+### What I enjoy coding with 👇
+<img src="https://img.shields.io/static/v1?style=flat&logo=next.js&label=&message=Next.js&color=black"/> <img src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React.js&color=grey"/> <img src="https://img.shields.io/static/v1?style=flat&logo=node.js&label=&message=Node.js&color=lightgrey"/> <img src="https://img.shields.io/static/v1?style=flat&logo=mongodb&label=&message=MongoDB&color=green"/> <img src="https://img.shields.io/static/v1?style=flat&logo=storyblok&label=&message=StoryBlok&color=white"/><br/>
+*Yes, the MERN-stack is strong with this one...*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I've dabbled in and enjoyed 👇 
+<img src="https://img.shields.io/static/v1?style=flat&logo=csharp&label=&message=C%23&color=purple"/> <img src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=&message=MySQL&color=white"/>
+
