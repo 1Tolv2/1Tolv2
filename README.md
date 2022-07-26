@@ -1,4 +1,4 @@
-## 👋 Welcome to Sofias code zone 😎💥
+## 👋 Welcome 😎💥
 [<img alt="linkedin" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=LinkedIn&color=blue"/>](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 [<img alt="instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&label=&message=Instagram&color=pink"/>](https://www.instagram.com/sofiajohnsson_illustrations/)<br/>
 This is where everything I'm temporarily proud of goes....
