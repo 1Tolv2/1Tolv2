@@ -4,7 +4,7 @@
 This is where everything I'm temporarily proud of goes....
 
 - 🚧 I’m currently working on a vehicle application, [here's the API i've created so far](https://github.com/1Tolv2/vehicle-api)
-- 📚 I’m currently learning **React Native** and working on discovering all the **UI/UX secrets**
+- 📚 I’m currently learning **TypeScript** and **React Native**
 - 📫 How to reach me: <a href='mailto:sofiaq1+github@gmail.com'>sofiaq1@gmail.com</a>
 - ⚡ Fun fact: Back to the future is the best movie of all time. <img width="50px" src="https://www.clipartmax.com/png/full/178-1788604_back-to-the-future-delorean-clipart-delorean-dmc-12.png"/>
 
