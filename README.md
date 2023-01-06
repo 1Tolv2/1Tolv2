@@ -3,8 +3,7 @@
 [<img alt="instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&label=&message=Instagram&color=pink"/>](https://www.instagram.com/sofiajohnsson_illustrations/)<br/>
 This is where everything I'm temporarily proud of goes....
 
-- 🚧 I’m currently working on a vehicle application, [here's the API i've created so far](https://github.com/1Tolv2/vehicle-api)
-- 📚 I’m currently learning **TypeScript** and **React Native**
+- 📚 I’m currently learning **C++** ansd **Django**
 - 📫 How to reach me: <a href='mailto:sofiaq1+github@gmail.com'>sofiaq1@gmail.com</a>
 - ⚡ Fun fact: Back to the future is the best movie of all time. <img width="50px" src="https://www.clipartmax.com/png/full/178-1788604_back-to-the-future-delorean-clipart-delorean-dmc-12.png"/>
 
@@ -13,5 +12,5 @@ This is where everything I'm temporarily proud of goes....
 *Yes, the MERN-stack is strong with this one...*
 
 #### I've dabbled in and enjoyed 👇 
-<img alt="C#" src="https://img.shields.io/static/v1?style=flat&logo=csharp&label=&message=C%23&color=purple"/> <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=&message=MySQL&color=white"/>
+<img alt="C++" src="https://img.shields.io/static/v1?style=flat&logo=cplusplus&label=&message=C%2B%2B&color=darkblue"/> <img alt="C#" src="https://img.shields.io/static/v1?style=flat&logo=csharp&label=&message=C%23&color=purple"/> <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=&message=MySQL&color=white"/> <img alt="React Native" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React Native&color=grey"/>
 
