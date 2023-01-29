@@ -12,5 +12,5 @@ This is where everything I'm temporarily proud of goes....
 *Yes, the MERN-stack is strong with this one...*
 
 #### I've dabbled in and enjoyed 👇 
-<img alt="C++" src="https://img.shields.io/static/v1?style=flat&logo=cplusplus&label=&message=C%2B%2B&color=darkblue"/> <img alt="C#" src="https://img.shields.io/static/v1?style=flat&logo=csharp&label=&message=C%23&color=purple"/> <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=&message=MySQL&color=white"/> <img alt="React Native" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React Native&color=grey"/>
+<img alt="C#" src="https://img.shields.io/static/v1?style=flat&logo=csharp&label=&message=C%23&color=purple"/> <img alt="MySQL" src="https://img.shields.io/static/v1?style=flat&logo=mysql&label=&message=MySQL&color=white"/> <img alt="React Native" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React Native&color=grey"/>
 
