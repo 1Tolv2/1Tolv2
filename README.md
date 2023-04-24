@@ -4,7 +4,7 @@
 This is where everything I'm temporarily proud of goes....
 
 - 🚧 My current project is a [parkingspot locator](https://github.com/1Tolv2/sthlm-mc-parking-pwa)
-- 📚 I’m currently learning **Django** and testing som **C++** out
+- 📚 I’m currently learning **Django** and testing some **C++** out
 - 📫 How to reach me: <a href='mailto:sofiaq1+github@gmail.com'>sofiaq1@gmail.com</a>
 - ⚡ Fun fact: Back to the future is the best movie of all time. <img width="50px" src="https://www.clipartmax.com/png/full/178-1788604_back-to-the-future-delorean-clipart-delorean-dmc-12.png"/>
 
