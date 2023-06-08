@@ -3,10 +3,9 @@
 [<img alt="instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&label=&message=Instagram&color=pink"/>](https://www.instagram.com/sofiajohnsson_illustrations/)<br/>
 This is where everything I'm temporarily proud of goes....
 
-- 🚧 My current project is a [parkingspot locator](https://github.com/1Tolv2/sthlm-mc-parking-pwa)
-- 📚 I’m currently learning **Django** and testing some **C++** out
-- 📫 How to reach me: <a href='mailto:sofiaq1+github@gmail.com'>sofiaq1@gmail.com</a>
-- ⚡ Fun fact: Back to the future is the best movie of all time. <img width="50px" src="https://www.clipartmax.com/png/full/178-1788604_back-to-the-future-delorean-clipart-delorean-dmc-12.png"/>
+- 🚧 My current project is my moving my art portfolio to my [dev portfolio](https://github.com/1Tolv2/photography-portfolio)
+- 📚 I’m currently .Net core
+- 📫 Reach me via [my LinkedIn](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 
 ### What I enjoy coding with 👇
 <img alt="Next.js" src="https://img.shields.io/static/v1?style=flat&logo=next.js&label=&message=Next.js&color=black"/> <img alt="React.js" src="https://img.shields.io/static/v1?style=flat&logo=react&label=&message=React.js&color=grey"/> <img alt="TypeScript" src="https://img.shields.io/static/v1?style=flat&logo=typescript&label=&message=TypeScript&logoColor=white&color=blue"/> <img alt="Node.js" src="https://img.shields.io/static/v1?style=flat&logo=node.js&label=&message=Node.js&color=lightgrey"/> <img alt="PostgreSQL" src="https://img.shields.io/static/v1?style=flat&logo=postgresql&label=&message=PostgreSQL&logoColor=white&color=purple"/> <img alt="MongoDB" src="https://img.shields.io/static/v1?style=flat&logo=mongodb&label=&message=MongoDB&color=green"/>  <img alt="StoryBlok" src="https://img.shields.io/static/v1?style=flat&logo=storyblok&label=&message=StoryBlok&color=white"/> <br/>
