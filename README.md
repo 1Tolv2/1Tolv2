@@ -1,9 +1,11 @@
 ## 👋 Welcome 😎💥
 [<img alt="linkedin" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=LinkedIn&color=blue"/>](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 [<img alt="instagram" src="https://img.shields.io/static/v1?style=flat&logo=instagram&label=&message=Instagram&color=pink"/>](https://www.instagram.com/sofiajohnsson_illustrations/)<br/>
+[SofiaJohnsson.dev](https://sofiajohnsson.dev)
+
 This is where everything I'm temporarily proud of goes....
 
-- 🚧 My current project is my moving my art portfolio to my [dev portfolio](https://github.com/1Tolv2/photography-portfolio)
+- 🚧 My current project is moving my art portfolio to my [dev portfolio](https://github.com/1Tolv2/photography-portfolio)
 - 📚 I’m currently .Net core
 - 📫 Reach me via [my LinkedIn](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 
