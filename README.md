@@ -6,7 +6,7 @@
 This is where everything I'm temporarily proud of goes....
 
 - 🚧 My current project is moving my art portfolio to my [dev portfolio](https://github.com/1Tolv2/photography-portfolio)
-- 📚 I’m currently .Net core
+- 📚 I’m currently learning about ASP.NET
 - 📫 Reach me via [my LinkedIn](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 
 ### What I enjoy coding with 👇
