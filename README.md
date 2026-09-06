@@ -5,7 +5,7 @@
 
 This is where everything I'm temporarily proud of goes....
 
-- 🚧 I'm currently revamping my [STHLM MC parking app](https://github.com/1Tolv2/sthlm-mc-parking-pwa)
+- 🚧 Just revamped my [portfolio](https://sofiajohnsson.dev)!
 - 📫 Reach me via [my LinkedIn](https://www.linkedin.com/in/sofia-johnsson-s-856308188/)
 
 ### What I enjoy coding with 👇
